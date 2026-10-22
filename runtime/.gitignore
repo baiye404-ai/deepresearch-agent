@@ -1,0 +1,8 @@
+# 本地运行时产物（脚本、配置、日志）
+# 中间件本体与数据在 C:\dr-runtime（Memurai 不支持非 ASCII 路径）
+*
+!.gitignore
+!README.md
+!start_memurai.bat
+!start_postgres.bat
+!stop_services.bat
